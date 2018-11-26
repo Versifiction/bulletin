@@ -1,0 +1,37 @@
+.App-Table {
+    margin: 0 auto;
+    display: block;
+    width: 600px;
+}
+table {
+    width: 100%;
+    font-size: 2rem;
+    border-collapse: collapse;
+}
+table, td {
+    border: 1px solid black;
+}
+td {
+    padding: 1rem 1rem;
+}
+.App-Table-Name {
+    width: 55%;
+}
+.App-Table-Coeff {
+    width: 15%;
+}
+.App-Table-Grade {
+    width: 30%;
+}
+.App-Table-Average {
+    text-align: right;
+}
+#App-Table-Result-Positive, #App-Table-Result-Negative {
+    text-align: center;
+}
+#App-Table-Result-Positive {
+    background-color: #ADFF2F;
+}
+#App-Table-Result-Negative {
+    background-color: #FF4D4D;
+}

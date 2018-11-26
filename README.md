@@ -1,0 +1,2 @@
+Projet où je récupère des notes, des coefficients et des matières d'un JSON
+Ces données sont affichées, et modifiées au clic sur celles-ci (via un input qui permet de saisir une autre valeur à la place de l'existante).
